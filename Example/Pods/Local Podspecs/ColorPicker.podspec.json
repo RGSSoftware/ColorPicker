@@ -2,14 +2,14 @@
   "name": "ColorPicker",
   "version": "0.1.0",
   "summary": "A short description of ColorPicker.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/ColorPicker",
+  "description": "test test",
+  "homepage": "https://github.com/RGSSoftware/ColorPicker",
   "license": "MIT",
   "authors": {
-    "Randel Smith": "homankids@gmail.com"
+    "Randel Smith": "test@test.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/ColorPicker.git",
+    "git": "https://github.com/RGSSoftware/ColorPicker.git",
     "tag": "0.1.0"
   },
   "platforms": {
